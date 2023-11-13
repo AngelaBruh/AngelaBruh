@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AngelaBruh&show_icons=true&count_private=true&hide_border=true&title_color=9E4C98&icon_color=9E4C98&text_color=c9d1d9&bg_color=D8FFF9" alt="Bruna Angela github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaBruh&layout=compact&hide_border=true&title_color=9E4C98&text_color=9E4C98&bg_color=D8FFF9" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AngelaBruh&show_icons=true&count_private=true&hide_border=true&title_color=9E4C98&icon_color=9E4C98&text_color=000000&bg_color=e3fcfc" alt="Bruna Angela github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaBruh&layout=compact&hide_border=true&title_color=9E4C98&text_color=9E4C98&bg_color=e3fcfc"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelaBruh&bg_color=0d0d0d&color=9e4c98&line=9e4c98&point=987c7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
