@@ -20,6 +20,9 @@
 ### Studying at the moment:
 ![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B00000&height=120&section=footer"/>
