@@ -18,6 +18,6 @@
 
 
 ### Studying at the moment:
-![ JAVA ](https://img.shields.io/badge/Java-0285FF?style=for-the-badge&logo=CaféScript)
+![ JAVA ](https://img.shields.io/badge/Java-black?style=for-the-badge)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B00000&height=120&section=footer"/>
