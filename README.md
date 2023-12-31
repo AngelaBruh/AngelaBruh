@@ -18,6 +18,8 @@
 
 
 ### Studying at the moment:
-![ JAVA ](https://img.shields.io/badge/Java-black?style=for-the-badge)
+![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B00000&height=120&section=footer"/>
