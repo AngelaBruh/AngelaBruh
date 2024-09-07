@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B00000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=741B7C&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9E4C98&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Bruna+Angela;I'm+24+years+old;I+am+from+São+Paulo,+Brasil;Welcome!+^-^)](https://git.io/typing-svg)
 
@@ -25,4 +25,4 @@
 
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B00000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=741B7C&height=120&section=footer"/>
