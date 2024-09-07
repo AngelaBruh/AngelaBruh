@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AngelaBruh&show_icons=true&count_private=true&hide_border=true&title_color=9E4C98&icon_color=9E4C98&text_color=000000&bg_color=e3fcfc" alt="Bruna Angela github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AngelaBruh&show_icons=true&count_private=true&hide_border=true&title_color=741B7C&icon_color=741B7C&text_color=000000&bg_color=e3fcfc" alt="Bruna Angela github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaBruh&layout=compact&hide_border=true&title_color=9E4C98&text_color=000000&bg_color=e3fcfc"/>
 </div>
 
